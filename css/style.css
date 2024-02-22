@@ -1,0 +1,29 @@
+html{
+    scroll-behavior: smooth;
+    
+}
+
+html::-webkit-scrollbar{
+    display: none;
+}
+
+#main-nav{
+    background-color: transparent;
+}
+
+
+
+#sary{
+  
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.custom-col{
+    margin-top: 25%;
+}
+
+i{
+    color: #BFFCF9;
+}

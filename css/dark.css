@@ -1,0 +1,248 @@
+.nav-item:hover {
+    font-size: 20px;
+    /* Taille de police souhaitée */
+  }
+  
+  .td_vide{
+    background-color: #303030;
+    color: #303030;
+  }
+  table {
+    border-collapse: separate; /* Permet d'avoir un espacement entre les cellules */
+    border-spacing: 5px; /* Espacement entre les cellules */
+  }
+  
+  .input {
+    border: none;
+    outline: none;
+    height: 20px;
+    border-radius: 5px;
+    padding: 1em;
+    background-color: #5F6971;
+    box-shadow: inset 2px 5px 10px rgba(0, 0, 0, 0.3);
+    transition: 300ms ease-in-out;
+    color: #F2ECFF;
+  
+  }
+  
+  .input:focus {
+    background-color: white;
+    transform: scale(1.05);
+    box-shadow: 13px 13px 100px #5F6971,
+      -13px -13px 100px #F2ECFF;
+    color: #494B50;
+  }
+  
+  .list-unstyled li {
+    margin-left: 15px;
+  }
+  
+  i {
+    font-size: 1.5rem;
+    color: #A9CEC2;
+    
+  }
+  
+  i:hover {
+    font-size: 1.5rem;
+    color: #F2ECFF;
+    cursor: pointer;
+  }
+  
+  
+  .text-muted {
+    background-color: #5F6971 !important;
+    color: #F2ECFF !important;
+    border-radius: 5px;
+  
+    padding-left: 3px;
+    padding-right: 3px;
+  
+    display: flex;
+    justify-content: center;
+    /* Centre horizontalement */
+    align-items: center;
+    /* Centre verticalement */
+    height: 6vh;
+    /* Ajustez selon vos besoins */
+  }
+  
+  .text-muted:hover {
+    cursor: pointer;
+    background-color: #494B50 !important;
+    border: solid #F2ECFF;
+    border-width: 1px;
+  
+  }
+  
+  
+  button {
+    background-color: #5F6971 !important;
+    color: #FFFFFF !important;
+  }
+  
+  button:hover {
+    background-color: #494B50 !important;
+  
+  
+  }
+  
+  
+  h5 {
+    color: #99BFB4;
+  }
+  
+  td {
+    color: #F2ECFF;
+    background-color: #5F6971;
+    border-radius: 5px;
+    text-align: center !important;
+  }
+  
+  body {
+    background-color: #303030;
+  }
+  
+  .modal-content {
+    background-color: #303030;
+    color: #F2ECFF;
+  }
+  
+  .modal-header {
+    background-color: #5F6971;
+    color: #F2ECFF;
+  }
+  
+  .card img {
+    height: 250px;
+  }
+  
+  .list-group li {
+    background-color: #303030;
+    color: #F2ECFF;
+  }
+  
+  
+  .modal-dialog {
+    box-shadow: 10px 10px 30px -4px #5F6971;
+    -webkit-box-shadow: 10px 10px 30px -4px #5F6971;
+    -moz-box-shadow: 10px 10px 30px -4px #5F6971;
+  }
+  
+  img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    border-radius: 10%;
+  }
+  
+  .card {
+    width: 95%;
+    background-color: #494B50;
+  }
+  
+  .card_3 {
+    display: inline-block;
+    margin: 0 0.5rem;
+  
+    animation: tada;
+    /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s;
+    /* don't forget to set a duration! */
+  
+    box-shadow: 10px 10px 30px -4px #5F6971;
+    -webkit-box-shadow: 10px 10px 30px -4px #5F6971;
+    -moz-box-shadow: 10px 10px 30px -4px #5F6971;
+  }
+  
+  .card_3:hover {
+  
+    box-shadow: 10px 10px 5px 0px rgba(43, 39, 39, 0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(43, 39, 39, 0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(43, 39, 39, 0.75);
+  
+  }
+  
+  hr {
+    border: none;
+    border-top: 1px solid #F2ECFF;
+  }
+  
+  #resume_20_mots {
+    display: inline-block;
+    margin: 0 0.5rem;
+  
+    animation: bounceInUp;
+    /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 3s;
+    /* don't forget to set a duration! */
+    color: #F2ECFF !important;
+  }
+  
+  #lang {
+    animation: backInUp;
+    /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s;
+    /* don't forget to set a duration! */
+    color: #F2ECFF !important;
+  }
+  
+  
+  h1 {
+  
+    color: #8BACAB;
+  
+    display: inline-block;
+    margin: 0 0.5rem;
+  
+    animation: fadeInBottomRight;
+    /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s;
+    /* don't forget to set a duration! */
+  }
+  
+  h1:hover {
+  
+    color: #5F6971;
+  }
+  
+  
+  h2 {
+    color: #8BACAB;
+  }
+  
+  .card-header {
+    background-color: #5F6971;
+    color: #F2ECFF;
+  }
+  
+  .card-body {
+    background-color: #494B50;
+    color: #F2ECFF;
+  }
+  
+  .form-control {
+    background-color: #303030;
+    color: #F2ECFF;
+  }
+  
+  
+  .text-muted li {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .form-control-sm {
+    height: calc(1.5em + 0.5rem + 2px);
+    padding: 0.25rem 0.5rem;
+    font-size: 0.875rem;
+  }
+  
+  img {
+    width: 350px;
+    height: auto;
+  }
+  
+  .fw-semibold{
+    color: #A9CEC2;
+  }
