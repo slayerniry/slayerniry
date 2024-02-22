@@ -72,7 +72,7 @@ objectif = Objective
 competence = Skill
 experience.pertiente = Relevant experience
 
-objectif.detail = Maximisation de l'efficacité des applications par une organisation cohérente des composants et des interactions fluides, assurant le succès du développement et une expérience utilisateur exceptionnelle.
+objectif.detail = Maximizing application efficiency through consistent component organization and seamless interactions, ensuring development success and an exceptional user experience.
 competence.detail = Expert in the development of scalable applications, I create efficient and satisfactory solutions for users. Let's work together for exponential growth.
 experience.pertiente.detail = Design of tax management software for local governments in Bujumbura (Burundi) and Madagascar, including law enforcement, tax calculation with adaptable formulas, flexible payment options and transaction tracking.
 
