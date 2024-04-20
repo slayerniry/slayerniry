@@ -15,7 +15,7 @@ twitter = Twitter
 phone = Phone
 discord = Discord
 instagram = Instagram
-tel = +261 034 64 462 56
+tel = +261 034 72 167 00
 tel2 = +261 033 63 644 24
 
 PHOTOSHOP = Photoshop
@@ -48,6 +48,8 @@ CRYSTAL.REPORT = CRYSTAL REPORT
 POSTGRES = PostgresSQL
 BIRT = BIRT
 CHART = Chart
+SITE = Web site 
+FULL STACK = Full stack 
 E-TRANSACTION = E-Transaction
 node = Node
 android.studio = Android Studio
@@ -120,3 +122,12 @@ projet.14.desc = <h5>Problem:</h5> <p>The problem to be solved is to facilitate 
 
 projet.15 = MCQ and QCD automatic correction
 projet.15.desc = <h5>Problem:</h5> <p>The client wants to automate the process of marking multiple choice questions (MCQs) and short answer questions (QCDs). Currently, the correction is done manually, which is tedious, error-prone and time-consuming.</p> <h5>Proposed solution:</h5> <p>The development of professional auto-correction software is propose. This software will be developed using PHP and MySQL technologies. It will capture students' answers, compare them with correct answers, award points based on the accuracy of answers, and generate correction reports.</p> <h5>Customer review:</ h5> <p>The client is satisfied with this solution because he sees in it a way to improve the efficiency, accuracy and speed of the correction of questionnaires.</p>
+
+projet.16 = Site web www.aire.mg
+projet.16.desc = <h5>Problem:</h5> <div>The client aims to develop a multilingual website showcasing its services, partners, slogans, and real-time news.</div> <h5>Proposed solution:</h5> <div>We propose the development of a dynamic, multilingual website that prominently features the client's services, partners, slogans, and up-to-the-minute news updates.</div> <h5>Customer review:</h5> <div>The client is excited about this solution, which will effectively communicate their offerings and updates to a diverse audience across languages. They appreciate the emphasis on presenting timely and relevant content to their visitors.</div>
+
+projet.17 = Site web www.iray-mutuelle.org
+projet.17.desc = <h5>Problem:</h5> <div>The client seeks to develop a multilingual website that showcases its services, partners, slogans, and delivers real-time news updates. Additionally, the client wants to incorporate a basic disaster management feature on the site.</div> <h5>Proposed solution:</h5> <div>We propose creating a dynamic, multilingual website that prominently presents the client's services, partners, slogans, and provides live news updates. We will also integrate a simple disaster management functionality to enhance the site's utility and preparedness.</div> <h5>Customer review:</h5> <div>The client is enthusiastic about this solution, which will effectively promote their offerings and news updates to a global audience in multiple languages. They appreciate the added value of including disaster management capabilities for their site's users.</div>
+
+projet.18 = Site web www.megamadagame.com
+projet.18.desc = <h5>Problem:</h5> <div>Our client is looking to create a multilingual website that showcases its services, partners, slogans, and delivers real-time news updates. They also want to incorporate additional information like tournament results. Furthermore, the client wants to include a members area to facilitate the management of video game tournaments.</div> <h5>Proposed solution:</h5> <div><div>We propose developing a dynamic and multilingual website that prominently features the client's services, partners, and slogans, with a real-time news broadcasting feature. To enhance user engagement, we will integrate sections for miscellaneous information such as tournament results. Additionally, we will create a secure members area specifically tailored for managing video game tournaments, providing an interactive platform for users.</div></div> <h5>Customer review:</h5> <div>The client is excited about this comprehensive solution that will effectively showcase their offerings and keep visitors engaged with up-to-date information. They particularly appreciate the inclusion of a members area for managing video game tournaments, which aligns perfectly with their needs for community engagement and event management on the website.</div>

@@ -15,7 +15,7 @@ twitter = Twitter
 phone = Phone
 discord = Discord
 instagram = Instagram
-tel = +261 034 64 462 56
+tel = +261 034 72 167 00
 tel2 = +261 033 63 644 24
 
 PHOTOSHOP = Photoshop
@@ -49,6 +49,8 @@ POSTGRES = PostgresSQL
 BIRT = BIRT
 CHART = Chart
 E-TRANSACTION = E-Transaction
+FULL STACK = Full Stack
+SITE = Site Web 
 node = Node
 android.studio = Android Studio
 
@@ -120,3 +122,15 @@ projet.14.desc = <h5>Problème :</h5> <p>Le problème à résoudre est de facili
 
 projet.15 = Correction automatique QCM et QCD
 projet.15.desc = <h5>Problème :</h5> <p>Le client souhaite automatiser le processus de correction des questionnaires à choix multiples (QCM) et des questions à développement court (QCD). Actuellement, la correction est effectuée manuellement, ce qui est fastidieux, sujet aux erreurs et prend beaucoup de temps.</p> <h5>Solution proposée :</h5> <p>Le développement d'un logiciel professionnel de correction automatique est proposé. Ce logiciel sera développé en utilisant les technologies PHP et MySQL. Il permettra de saisir les réponses des étudiants, de les comparer avec les réponses correctes, d'attribuer des points en fonction de la précision des réponses et de générer des rapports de correction.</p> <h5>Avis du client :</h5> <p>Le client est satisfait de cette solution car il voit en elle une manière d'améliorer l'efficacité, la précision et la rapidité de la correction des questionnaires.</p>
+
+projet.16 = Site web www.aire.mg
+projet.16.desc = <h5>Problème :</h5> <div><div>Le client souhaite créer un site web multilingue mettant en valeur ses services, ses partenaires, ses slogans, ainsi que ses actualités en temps réel.</div></div> <h5>Solution proposée :</h5> <div><div>Nous recommandons le développement d'un site web dynamique avec un tableau de bord administratif permettant la gestion des photos, des textes et des images. Ce tableau de bord inclura un accès multi-utilisateurs avec différents profils pour gérer les autorisations et les tâches spécifiques de chaque utilisateur.</div></div> <h5>Avis du client :</h5> <div>Le client est pleinement satisfait de cette solution, car elle lui offre la possibilité de modifier, supprimer ou ajouter du contenu en temps réel, et de visualiser immédiatement les changements sur son site web. De plus, il apprécie la gestion efficace et sécurisée des utilisateurs.</div>
+
+projet.17 = Site web www.iray-mutuelle.org
+projet.17.desc = <h5>Problème :</h5> <div><div>Le client désire développer un site web multilingue pour mettre en avant ses services, ses partenaires, ses slogans et diffuser ses actualités en temps réel. De plus, il souhaite inclure une petite gestion de sinistres sur le site.</div></div> <h5>Solution proposée :</h5> <div><div>Nous recommandons la conception d'un site web dynamique et multilingue qui mettra en lumière les services proposés, les partenariats établis et les actualités mises à jour en temps réel. En plus de cela, nous intégrerons une fonctionnalité légère de gestion des sinistres pour permettre aux utilisateurs d'accéder et de traiter les réclamations directement sur le site.</div></div> <h5>Avis du client :</h5> <div>Le client est enthousiasmé par cette solution qui lui permettra de communiquer efficacement avec son public dans plusieurs langues, tout en offrant une option de gestion des sinistres directement sur le site. Il apprécie la possibilité de maintenir un contenu actuel et informatif pour ses visiteurs.</div>
+
+projet.18 = Site web www.megamadagame.com
+projet.18.desc = <h5>Problème :</h5> <div><div>Le client désire concevoir un site web multilingue mettant en avant ses services, ses partenaires, ses slogans et diffusant ses actualités en temps réel. En outre, il souhaite intégrer d'autres informations diverses telles que les résultats de tournois. De plus, le client souhaite inclure un espace membre pour gérer les tournois de jeux vidéo.</div></div> <h5>Solution proposée :</h5> <div><div>Nous recommandons le développement d'un site web dynamique et multilingue qui mettra en avant les services du client, ses partenaires stratégiques, ses slogans accrocheurs et diffusera en temps réel les actualités pertinentes. Pour enrichir l'expérience des visiteurs, nous proposons d'intégrer des sections dédiées à d'autres informations comme les résultats de tournois de jeux vidéo. De plus, nous allons créer un espace membre sécurisé permettant de gérer efficacement les tournois de jeux vidéo, offrant ainsi une plateforme interactive pour les utilisateurs.</div></div> <h5>Avis du client :</h5> <div>Le client est enthousiaste à l'idée de cette solution qui mettra en avant ses services de manière professionnelle tout en proposant une expérience interactive aux visiteurs. Il apprécie particulièrement l'ajout des résultats de tournois et de l'espace membre dédié aux gestionnaires de tournois de jeux vidéo, ce qui répond à ses besoins spécifiques en termes de fonctionnalités du site web.</div>
+
+
+
